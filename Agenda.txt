@@ -1,0 +1,9 @@
+Agenda
+1- Setup GitHub {Repository}
+	a) new environment
+	b) setup.py - why we build setup.py?
+	c) requirements.txt
+2- Src folder and build package
+
+
+
