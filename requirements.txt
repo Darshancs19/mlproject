@@ -5,4 +5,6 @@ seaborn
 scikit-learn
 plotly
 jupyter
+imbalanced-learn
+xgboost
 # -e .
