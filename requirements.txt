@@ -7,4 +7,6 @@ plotly
 jupyter
 imbalanced-learn
 xgboost
+Flask
+
 # -e .
