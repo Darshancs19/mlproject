@@ -8,8 +8,8 @@ app = Flask(__name__)
 # app = application
 
 # import pickle
-ridge_model = pickle.load(open('models/ridge_model.pkl', 'rb'))
-standard_scaler = pickle.load(open('models/standard_scaler.pkl', 'rb'))
+ridge_model = pickle.load(open('models/model.pkl', 'rb'))
+standard_scaler = pickle.load(open('models/preprocessor.pkl', 'rb'))
 
 
 @app.route('/')

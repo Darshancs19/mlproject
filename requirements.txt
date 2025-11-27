@@ -8,5 +8,5 @@ jupyter
 imbalanced-learn
 xgboost
 Flask
-
+dill
 # -e .
